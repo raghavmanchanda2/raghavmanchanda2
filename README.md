@@ -92,6 +92,6 @@ future leaders.
 
 Feel free to connect with me for collaboration, discussions, or inquiries.
 
-Email: raghavmanchanda2@gmail.com
+Email: [raghavmanchanda2@gmail.com](raghavmanchanda2@gmail.com)
 LinkedIn: [raghavmanchanda](https://in.linkedin.com/in/raghav-manchanda-922896137)
 
