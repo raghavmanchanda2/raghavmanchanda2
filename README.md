@@ -72,14 +72,8 @@ Other │ • Jira • Git • Version Control Systems like GitHub
 Languages │ Spoken & Written • English│Spoken & Written • Hindi
 
 # Volunteer Work
-Educational YouTube Content Creator: -Produced and uploaded educational videos on YouTube
-Channel RR Academy covering diverse subjects like Math, Computer Science, fostering accessible
-learning for a wide online audience and contributing to the dissemination of knowledge and skill
-development.
-Youth Mentorship Program Volunteer: - Volunteered as a mentor in a youth program, providing guidance
-and support to young individuals facing academic and personal challenges. Designed and conducted
-workshops focused on building essential life skills, contributing to the empowerment and development of
-future leaders.
+1. Educational YouTube Content Creator: -Produced and uploaded educational videos on YouTube Channel RR Academy covering diverse subjects like Math, Computer Science, fostering accessible learning for a wide online audience and contributing to the dissemination of knowledge and skill development.
+2. Youth Mentorship Program Volunteer: - Volunteered as a mentor in a youth program, providing guidance and support to young individuals facing academic and personal challenges. Designed and conducted workshops focused on building essential life skills, contributing to the empowerment and development of future leaders.
 
 # Contact
 
