@@ -15,16 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Greetings! I am Raghav Manchanda, a dedicated and self-taught Full Stack Web Developer and a freelance Software Engineer with a global perspective, based in Canada and India. My professional journey is driven by a profound passion for software development, where I thrive on conceptualizing ideas and transforming them into reality through elegant interfaces. I prioritize the user experience, architectural integrity, and code quality in every project I undertake.
+Greetings! I am Raghav Manchanda, an accomplished and highly skilled professional with a strong academic background and 4 years of professional experience in French based company Sopra Steria in technologies like Java 8, Rest Api’s, Angular. I am currently pursuing master’s in applied computer science at Concordia University, Montreal, Canada. I possess advanced knowledge in programming languages like C, C++, Java, JavaScript, Angular and Python. My passion for Software Development drives me to seek opportunities where I can utilize my expertise and contribute significant value to organizations. I am eager to apply my skills and knowledge in a role that enables me to make a meaningful impact and drive transformative change.
 
 🚀 Expertise: Full Stack Web Development 🌐 Location: Canada 🍁 and India 🇮🇳
-
-Any Freelance Work ? Do Reach
-
-Email📧: raghavmanchanda2@gmail.com , manchandar934@gmail.com , r_mancha@live.concordia.ca
-Phone 📞: (+1)-438-680-1353 , (+91)-964-355-6403
-LinkedIn🔗: raghavmanchanda
-Github🐱‍💻 : raghavmanchanda2
 
 # Some Open Source Projects 
 
@@ -92,6 +85,9 @@ future leaders.
 
 Feel free to connect with me for collaboration, discussions, or inquiries.
 
-Email: [raghavmanchanda2@gmail.com](raghavmanchanda2@gmail.com)
+Email📧: raghavmanchanda2@gmail.com , manchandar934@gmail.com , r_mancha@live.concordia.ca
 LinkedIn: [raghavmanchanda](https://in.linkedin.com/in/raghav-manchanda-922896137)
+Phone 📞: (+1)-438-680-1353 , (+91)-964-355-6403
+LinkedIn🔗: raghavmanchanda
+Github🐱‍💻 : raghavmanchanda2
 
