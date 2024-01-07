@@ -26,7 +26,7 @@ Phone 📞: (+1)-438-680-1353 , (+91)-964-355-6403
 LinkedIn🔗: raghavmanchanda
 Github🐱‍💻 : raghavmanchanda2
 
-Some Open Source Projects 
+# Some Open Source Projects 
 
 ## BANK-ATM-PROJECT
  Repo Link [BANK-ATM-PROJECT](https://github.com/raghavmanchanda2/BANK-ATM-PROJECT) 
