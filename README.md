@@ -61,15 +61,14 @@ August 2015 - August 2019 | New Delhi , India
 
 # Skills
 #### Operating Systems │ • Windows • Mac • Mobile
-Applications │ Microsoft Office: Word • Excel • PPT • Eclipse • Visual Studio • NWDS
-Programming │ • C++ • Angular • Java • JavaScript • C • Python • Html • CSS • SQL • XML
-Programming Concepts │ • Java 8 Features • Restful Web Services • Design Patterns • Generic Programming • Ecmascript 6 Features • Application Performance monitoring Tools • Relational Database
-Subject Knowledge │• Advanced Programming Practices • Data Structures • Database Programming Fundamentals • Algorithm Design & Analysis • Software Engineering • Object Oriented Programming
-Platforms │ • SAP NetWeaver • Java platforms
-Methodologies │• Six Sigma • Agile and Scrum • Project Management • Continuous Integration and
-Improvement • Continuous Development • Feature Driven Development
-Other │ • Jira • Git • Version Control Systems like GitHub
-Languages │ Spoken & Written • English│Spoken & Written • Hindi
+#### Applications │ Microsoft Office: Word • Excel • PPT • Eclipse • Visual Studio • NWDS
+#### Programming │ • C++ • Angular • Java • JavaScript • C • Python • Html • CSS • SQL • XML
+#### Programming Concepts │ • Java 8 Features • Restful Web Services • Design Patterns • Generic Programming • Ecmascript 6 Features • Application Performance monitoring Tools • Relational Database
+#### Subject Knowledge │• Advanced Programming Practices • Data Structures • Database Programming Fundamentals • Algorithm Design & Analysis • Software Engineering • Object Oriented Programming
+#### Platforms │ • SAP NetWeaver • Java platforms
+#### Methodologies │• Six Sigma • Agile and Scrum • Project Management • Continuous Integration and Improvement • Continuous Development • Feature Driven Development
+#### Other │ • Jira • Git • Version Control Systems like GitHub
+#### Languages │ Spoken & Written • English│Spoken & Written • Hindi
 
 # Volunteer Work
 1. Educational YouTube Content Creator: -Produced and uploaded educational videos on YouTube Channel RR Academy covering diverse subjects like Math, Computer Science, fostering accessible learning for a wide online audience and contributing to the dissemination of knowledge and skill development.
