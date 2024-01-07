@@ -60,7 +60,7 @@ August 2019 - August 2019 | Noida,UttarPradesh, India
 August 2015 - August 2019 | New Delhi , India
 
 # Skills
-Operating Systems │ • Windows • Mac • Mobile
+### Operating Systems │ • Windows • Mac • Mobile
 Applications │ Microsoft Office: Word • Excel • PPT • Eclipse • Visual Studio • NWDS
 Programming │ • C++ • Angular • Java • JavaScript • C • Python • Html • CSS • SQL • XML
 Programming Concepts │ • Java 8 Features • Restful Web Services • Design Patterns • Generic Programming • Ecmascript 6 Features • Application Performance monitoring Tools • Relational Database
