@@ -44,7 +44,7 @@ Greetings! I am Raghav Manchanda, an accomplished and highly skilled professiona
 GPA: 3.65/4.3
 Member of the Institute for Cooperative Education
 
-Bachelor of Technology – Computer Science (August 2015 - August 2019)
+Bachelor of Technology – Information Technology (August 2015 - August 2019)
 Dr. Akhilesh Das Gupta Institute of Technology and Management, Shastri Park, Shahdara, New Delhi, India
 
 CGPA: 8.6/10
