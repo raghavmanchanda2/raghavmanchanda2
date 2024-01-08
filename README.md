@@ -21,10 +21,10 @@ Greetings! I am Raghav Manchanda, an accomplished and highly skilled professiona
 
 # Some Open Source Projects 
 
-## BANK-ATM-PROJECT
+ ## BANK-ATM-PROJECT
  Repo Link [BANK-ATM-PROJECT](https://github.com/raghavmanchanda2/BANK-ATM-PROJECT) 
 
-## Research-Paper-Voice-Recognition-Technique
+ ## Research-Paper-Voice-Recognition-Technique
  Repo Link [Research-Paper-Voice-Recognition-Technique](https://github.com/raghavmanchanda2/Research-Paper-Voice-Recognition-Technique)
 
  ## Warzone-Game
@@ -33,9 +33,13 @@ Greetings! I am Raghav Manchanda, an accomplished and highly skilled professiona
  ## CouchBase-Distributed-System-Architecture-Implementation
  Repo Link [CouchBase-Distributed-System-Architecture-Implementation](https://github.com/raghavmanchanda2/CouchBase-Distributed-System-Architecture-Implementation)
 
- # Education
+ ## Scientifc-Calculator-Using-Python-Tkinter
+ Repo Link [Scientifc-Calculator-Using-Python-Tkinter](https://github.com/raghavmanchanda2/Scientifc-Calculator-Using-Python-Tkinter)
+
+# Education
+ 
  Master of Applied Computer Science (CO-OP) (September 2023 - April 2025)
-Concordia University, Montreal, QC
+ Concordia University, Montreal, QC
 
 GPA: 3.65/4.3
 Member of the Institute for Cooperative Education
