@@ -24,6 +24,12 @@ Greetings! I am Raghav Manchanda, an accomplished and highly skilled professiona
  ## Interview Simulator
  Repo Link [Interview Simulator](https://github.com/raghavmanchanda2/InterviewSimulator)
 
+ ## Network-Scanning-Analysis
+ Repo Link [Network-Scanning-Analysis](https://github.com/raghavmanchanda2/Network-Scanning-Analysis)
+
+ ## Wireshark-Analysis
+ Repo Link [Wireshark-Analysis](https://github.com/raghavmanchanda2/Wireshark-Analysis)
+
  ## BANK-ATM-PROJECT
  Repo Link [BANK-ATM-PROJECT](https://github.com/raghavmanchanda2/BANK-ATM-PROJECT) 
 
@@ -38,6 +44,11 @@ Greetings! I am Raghav Manchanda, an accomplished and highly skilled professiona
 
  ## Scientifc-Calculator-Using-Python-Tkinter
  Repo Link [Scientifc-Calculator-Using-Python-Tkinter](https://github.com/raghavmanchanda2/Scientifc-Calculator-Using-Python-Tkinter)
+
+ ## Athletic-Apparel--Design-Page
+ Repo Link [Athletic-Apparel--Design-Page](https://github.com/raghavmanchanda2/Athletic-Apparel--Design-Page)
+
+ 
 
 # Education
  
